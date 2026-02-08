@@ -1,22 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>刺鸟栖息地</title>
-	<link>https://www.thornbirds.org/tags/</link>
-	<description>Recent content in Tags on 刺鸟栖息地</description>
+	<link>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
+	<description>Recent content in 心理健康 on 刺鸟栖息地</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>zh</language>
-	<lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jul 2022 18:10:07 -0400</lastBuildDate>
     
-        <atom:link href="https://www.thornbirds.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>我和亲历者这个说法的故事</title>
-		<link>https://www.thornbirds.org/2026-2-6%E7%B4%A7%E6%80%A5%E6%8A%95%E7%A8%BF-%E5%85%B3%E4%BA%8E%E4%BA%B2%E5%8E%86%E8%80%85/</link>
+		<link>http://localhost:1313/2026-2-6%E7%B4%A7%E6%80%A5%E6%8A%95%E7%A8%BF-%E5%85%B3%E4%BA%8E%E4%BA%B2%E5%8E%86%E8%80%85/</link>
 		<pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
 		
-		<guid>https://www.thornbirds.org/2026-2-6%E7%B4%A7%E6%80%A5%E6%8A%95%E7%A8%BF-%E5%85%B3%E4%BA%8E%E4%BA%B2%E5%8E%86%E8%80%85/</guid>
-		<description>&lt;p&gt;我记得在我2015年开始做关于年轻人心理健康的民族志时，我就对“抑郁症患者”这个词感到不安。这种不安不仅仅和它暗示的将痛苦病理化有关，也和它无法涵盖那些不一样的叙事有关。比如说，有的人不否认他们的诊断经历，也承认自身的痛苦，但是并不认可精神病学的操作，对于“病人”的身份没有认同。这些顾虑既和我长期对抑郁症社区的观察有关，也和我自身被诊断的亲身经验有关。&lt;/p&gt;
+		<guid>http://localhost:1313/2026-2-6%E7%B4%A7%E6%80%A5%E6%8A%95%E7%A8%BF-%E5%85%B3%E4%BA%8E%E4%BA%B2%E5%8E%86%E8%80%85/</guid>
+		<description>&lt;h1 id=&#34;我和亲历者这个说法的故事&#34;&gt;我和“亲历者”这个说法的故事&lt;/h1&gt;
+&lt;p&gt;我记得在我2015年开始做关于年轻人心理健康的民族志时，我就对“抑郁症患者”这个词感到不安。这种不安不仅仅和它暗示的将痛苦病理化有关，也和它无法涵盖那些不一样的叙事有关。比如说，有的人不否认他们的诊断经历，也承认自身的痛苦，但是并不认可精神病学的操作，对于“病人”的身份没有认同。这些顾虑既和我长期对抑郁症社区的观察有关，也和我自身被诊断的亲身经验有关。&lt;/p&gt;
 &lt;p&gt;基于这样的顾虑，我在最早期的研究参与者招募中，笨拙地使用了了一个长句“受到抑郁困扰的人”，&lt;strong&gt;尽量让这件事情回到现象的层面而避免预设的意义体系&lt;/strong&gt;。在同时期，我也会使用“当事人”这样的说法，当事人在中文的语境里，一般和法律场景相关。它在字典里的解释是“与某种法律事实有直接关系的人”，&lt;strong&gt;我借用了这个词对于人和某种经验之间关系的强调&lt;/strong&gt;。但这个词，在日常使用中，可能是它本身的法律气质，给我一种过于严肃的感觉。如果不局限在精神健康的领域，我本身在社会工作的实践里也一直在感受语言和权力的关系。比如服务对象和服务使用者，后者相比前者，就更有主体性。&lt;/p&gt;
 &lt;p&gt;像我这样对语言十分计较的人不是少数，各类精神健康的communities有着各种各样的说法。自倡导和互助社群里的郁友、过山车玩家、阿星人……精神医疗、社工、社区康复场景下的学员、休养员、康复者……还有朋辈支持场景下的陪伴者、朋辈支持者……如果做一个详尽的罗列，应该也是很有趣的事情。部分说法在更早的《杂音：媒体如何更好地报道精神健康》里具体讨论过。&lt;/p&gt;
 &lt;p&gt;这里我们主要讨论和亲历者意义有相似、交叉的一些词语。&lt;/p&gt;
@@ -34,10 +35,10 @@
 	
 	<item>
 		<title>翻译| 当精神病学把我们雇为「同伴」时，会出什么问题</title>
-		<link>https://www.thornbirds.org/mad-success-peers/</link>
+		<link>http://localhost:1313/mad-success-peers/</link>
 		<pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
 		
-		<guid>https://www.thornbirds.org/mad-success-peers/</guid>
+		<guid>http://localhost:1313/mad-success-peers/</guid>
 		<description>&lt;h2 id=&#34;原文标题-mad-success-what-could-go-wrong-when-psychiatry-employs-us-as-peers&#34;&gt;原文标题: &lt;strong&gt;Mad success: What Could Go Wrong&lt;/strong&gt; &lt;em&gt;When Psychiatry employs us as “Peers”?&lt;/em&gt;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;作者: Erick Fabris&lt;/strong&gt;&lt;/p&gt;
@@ -116,15 +117,15 @@
 	
 	<item>
 		<title>600号画廊｜精神病院内的画廊</title>
-		<link>https://www.thornbirds.org/ciniao_exhibitions_600_1/</link>
+		<link>http://localhost:1313/ciniao_exhibitions_600_1/</link>
 		<pubDate>Wed, 06 Nov 2024 23:38:02 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/ciniao_exhibitions_600_1/</guid>
+		<guid>http://localhost:1313/ciniao_exhibitions_600_1/</guid>
 		<description>&lt;p&gt;600号画廊始创于2019年，由刺鸟栖息地参与发起，是位于上海市精神卫生中心内的公共展览项目，是中国大陆首家设在精神病院内的画廊。至今为止已经举办多次展览，作者涵盖了院内和院外的各界人士，既有青春期的少年，也有长期住院的长者，主题则涉及情感障碍、精神分裂、青少年心理等。&lt;/p&gt;
 &lt;h3 id=&#34;传声筒精神分裂症专题互动艺术展&#34;&gt;传声筒：精神分裂症专题互动艺术展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/2.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/2.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -134,13 +135,13 @@
 &lt;h3 id=&#34;蓝梦抑郁双相专题艺术展&#34;&gt;蓝梦：抑郁/双相专题艺术展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/18.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/18.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/8.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/8.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -151,7 +152,7 @@
 &lt;h3 id=&#34;少年心事青少年心理健康艺术展&#34;&gt;少年心事：青少年心理健康艺术展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/5.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/5.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -162,7 +163,7 @@
 &lt;/ul&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/7.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/7.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -174,7 +175,7 @@
 &lt;h3 id=&#34;心心相印上海精中x常州德安原生艺术交流展&#34;&gt;心心相印：上海精中X常州德安原生艺术交流展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/6.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/6.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -184,13 +185,13 @@
 &lt;h3 id=&#34;颜色生长来画画吧让颜色在医院的走廊上生长&#34;&gt;颜色生长：来画画吧！让颜色在医院的走廊上生长&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/4.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/4.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/16.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/16.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -202,13 +203,13 @@
 &lt;h3 id=&#34;忆境漫游阿尔茨海默病主题摄影展&#34;&gt;忆境漫游：阿尔茨海默病主题摄影展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/9.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/9.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/13.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/13.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -218,7 +219,7 @@
 &lt;h3 id=&#34;爱食物与生命进食障碍科普艺术展&#34;&gt;爱、食物与生命：进食障碍科普艺术展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/10.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/10.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -229,13 +230,13 @@
 &lt;h3 id=&#34;允许不完美强迫症科普艺术展&#34;&gt;允许不完美：强迫症科普艺术展&lt;/h3&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/19.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/19.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2024/600gallery/17.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2024/600gallery/17.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -246,11 +247,334 @@
 	</item>
 	
 	<item>
+		<title>Yishu</title>
+		<link>http://localhost:1313/yishu/</link>
+		<pubDate>Thu, 24 Oct 2024 05:23:52 +0800</pubDate>
+		
+		<guid>http://localhost:1313/yishu/</guid>
+		<description>&lt;p&gt;&amp;quot; id=&amp;ldquo;js_content&amp;rdquo; style=&amp;ldquo;visibility: hidden; opacity: 0; &amp;ldquo;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2023.09&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;心理健康与艺术实践&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系列课程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/学员招募&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**14次，**&lt;strong&gt;28小时&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一手经验，多元视角。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;刺鸟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;夜校&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;周三晚 &lt;/p&gt;
+&lt;p&gt;20:00-22:00&lt;/p&gt;
+&lt;p&gt;思想碰撞&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;课程设计&lt;/strong&gt; **嘉宾介绍&lt;br&gt;
+**&lt;/p&gt;
+&lt;p&gt;关于课程的背景资料请点击查看&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzU1Nzg1NjU4MQ==&amp;amp;mid=2247496209&amp;amp;idx=1&amp;amp;sn=486dab36fe41ba5a3aee8673d4838edc&amp;amp;chksm=fc2dd03bcb5a592d01c9e8413619355ca741364d39b074d6ca6946ef0234b169ae4134887632&amp;amp;scene=21#wechat_redirect&#34;&gt;《学员招募 | 心理健康与艺术实践案例》&lt;/a&gt;，本期推文重点为课程嘉宾的讲师背景介绍。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Part1我与我周旋久&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**行动主体：**有个人议题、精神困扰或诊断的创作者&lt;/p&gt;
+&lt;p&gt;**分享主题：**如何从个人体验出发创作艺术作品？如何看待艺术与自我精神状态的关系？如何让充满自我属性的作品能够与大众产生对话？……&lt;/p&gt;
+&lt;p&gt;**涉及案例：**画作、电影、社会实验、行为艺术……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特邀嘉宾：&lt;/strong&gt;《一个人的社会》发起人满宇、刺鸟合作艺术家Cracks、合作导演华真一&lt;/p&gt;
+&lt;p&gt;艺术家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;满宇&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个艺术项目&lt;/p&gt;
+&lt;p&gt;课程板块Part1&lt;/p&gt;
+&lt;p&gt;1998年毕业于广州美术学院。策展人、艺术家、分析家，北京二楼出版机构、广州热带病艺术研究所发起人之一，曾短期担任西安美术馆副馆长。参与和发起多个社会性艺术实践项目，“一个人的社会”发起人之一，目前生活工作于广州。&lt;/p&gt;
+&lt;p&gt;发起《一个人的社会》项目。这个项目需要参与的艺术家直面生命经验。策展人和精神分析家在“如何理解”以及“如何应对”两个层面为艺术家提供参考，帮助他们进入合作者的生命经验，并在此过程中疏解艺术家自身的疑惑，形成了项目的多重田野。&lt;/p&gt;
+&lt;p&gt;满宇：“2015年，我曾在策展工作中提出了无名者的三个维度：一是，在社会的秩序中被遮蔽的人，或在秩序中无法被命名的人；二是，个人的偶然性在与大他者(秩序)的遭遇中，被压抑而无法言说之症状。没有言说过的经验，各种精神障碍的人，焦虑的人，无聊或者始终处在无法满足状态的人；三是，自己是自己的无名者。在无意识的层面上，个人的意识由于无法理解自身的欲望(自身的偶然性)，在不断的对象(或日常情景的)迁移中，身不由己。这三个层面互为缠绕，结构为无名者的场域。&lt;/p&gt;
+&lt;p&gt;这既是我的理解，亦是我的困惑，当时我认为艺术的实践应为此工作，试图回应当下的语境，并在一种新的意义和理解中去重新指认行动的主体。直到现在，《一个人的社会》依然在试图回答这一问题。”&lt;/p&gt;
+&lt;p&gt;*满宇的分享时间会定在周二。&lt;/p&gt;
+&lt;p&gt;艺术家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cracks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个画展作品集&lt;/p&gt;
+&lt;p&gt;课程板块Part1&lt;/p&gt;
+&lt;p&gt;艺术创作者，亲历者。&lt;/p&gt;
+&lt;p&gt;Cracks：“本人是一个双相情感障碍的患者，毕业于视觉传达设计系。&lt;/p&gt;
+&lt;p&gt;因为从小不善于表达，就只能通过画画来表达我的思想，每一张画都是我的精神产物。小时候我很喜欢画很多繁杂的线，这让我感到平静、安宁。我希望有一天自己能把心中混沌的思想都表达出来，让外人看到我的挣扎、我的痛苦、我的翻来覆去。后来我找到了那件擅长和热爱的事——画画。与其说是我找到画画 ，不如说它选择了我，而我又选择了它。现在我实现了梦想，用线条勾画出自己的内心世界。所以说画画承载的我了的灵魂，是我灵魂的栖息地，即使画出来的作品不被人接受又怎样，画画这件事与旁人无关，是我的独家享受。&lt;/p&gt;
+&lt;p&gt;后来我的画被更多的人看到了，其中也有一些受到心静障碍困扰的人，当他们跟我说从我的画里看到自己时，我觉得我的心是被感动的，是滚烫的，好像此时我也有了自己的价值。现在对我来说，画画不仅是是我个人的表达，更是为了整个有心静障碍的人群去表达，我希望&lt;/p&gt;
+&lt;p&gt;他们能更多被看到，被理解，被支持，被包容，我想为这件事去更努力一点。”&lt;/p&gt;
+&lt;p&gt;作品集《打开裂缝的日常》曾在多个画展展出。作品主要以黑白金为主，在这群人的世界里本来就黑暗无色的，多重的线条是繁杂的思绪，这些思绪将整个人淹没。可是人总有韧性，总有顽强的生命力，总会触底反弹，所以内心深处都总会有光，所以我会在黑白的创作里添加金色的色彩，那是光的颜色&lt;/p&gt;
+&lt;p&gt;过往参加的展览：&lt;/p&gt;
+&lt;p&gt;· 飞路中英精神健康艺术展（Flyway Art and Mental Health Art Exhibition) - 上海·2021&lt;/p&gt;
+&lt;p&gt;· 蓝梦——抑郁/双相专题艺术展（Blue Dreams-Depression/Bipolar Disorder Special Art Exhibition）- 上海·2021&lt;/p&gt;
+&lt;p&gt;· 念想——精神与认知健康的艺术表达（On My Mind-Exploring Mental Health Through Artistic Expression）- 上海·2023&lt;/p&gt;
+&lt;p&gt;影像作者&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;华真一&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个纪录片&lt;/p&gt;
+&lt;p&gt;课程板块Part1&lt;/p&gt;
+&lt;p&gt;生于 1999 年，独立影像作者、写作者。入围第一届中国—挪威青年纪录短片平行计划；第一届“庐舍之春女性电影人剪辑驻留计划”。 &lt;/p&gt;
+&lt;p&gt;纪录片《海、三角梅以及写诗的舒婷》(驻地版)入围母亲影展 2022；短片《被遗忘，被新鲜赋予的今天》作为合辑电影之一入围韩国DMZ电影节“全球视野”单元。&lt;/p&gt;
+&lt;p&gt;相关艺术创作推文——《我和很多人一起假装抑郁》：抑郁症发作时创作的喜剧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzU1Nzg1NjU4MQ==&amp;amp;mid=2247485082&amp;amp;idx=1&amp;amp;sn=e39ca8fb98efcd13106224b4475f1c43&amp;amp;scene=21#wechat_redirect&#34;&gt;https://mp.weixin.qq.com/s/My9SWMAoZOZ7gTr24mDYJA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者相关作品：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;纪录片《海、三角梅以及写诗的舒婷》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;短片《流水淙淙，脑袋嗡嗡》，与ADHD话题相关&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;短片《我和许多人一起假装抑郁》，与抑郁症话题相关&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part2艺术治疗与艺术介入&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**行动主体：**职业助人者&lt;/p&gt;
+&lt;p&gt;**分享主题：**如何通过艺术做好服务？艺术在治疗和复元当中起到了哪些作用？艺术治疗师的日常是怎样的？社会工作者的日常是怎样的？&lt;/p&gt;
+&lt;p&gt;**涉及案例：**艺术治疗、社工服务、危机响应……&lt;/p&gt;
+&lt;p&gt;**特邀嘉宾：**美国马里兰圣母大学艺术治疗专业师生（有时差，所以时间可能会有特别安排）、成都利川社工&lt;/p&gt;
+&lt;p&gt;艺术治疗师&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;马里兰圣母大学师生&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个治疗师&lt;/p&gt;
+&lt;p&gt;课程板块Part2&lt;/p&gt;
+&lt;p&gt;Cathy 作为一名美国国家认证、马里兰州许可的临床艺术治疗师，在马里兰州的特殊教育机构工作了 25 年以上。作为 NDMU 女子学院的校友，Cathy 攻读工作室艺术和心理学双学位，Cathy 于 1994 年获得乔治华盛顿大学研究生艺术治疗项目硕士学位。除了从 2018 年开始担任 NDMU 艺术治疗项目的创始主任外，Cathy 在该领域的领导地位还包括于 2010 年共同创立Make Studio，这是一个专业工作室空间，供残疾人士工作、举办展览。&lt;/p&gt;
+&lt;p&gt;Cathy目前担任艺术治疗系主任、本科生项目主任和现场指导协调员，为该专业的本科生和研究生提供现场实习经验。她还担任美国艺术治疗协会教育委员会本科小组委员会、马里兰大学圣母大学教师反种族主义工作组以及艺术、科学和商业学院评估委员会的成员。&lt;/p&gt;
+&lt;p&gt;刺鸟和Cathy相识于美国巴尔的摩，我们实地拜访过她负责的艺术治疗系。在策划该项目时，我们持续通过邮件进行反复沟通和细节确认。她希望由她或者她的学生们来和我们做分享，尽量全面地介绍艺术治疗的学习和工作日常，由于美国秋季学期繁忙，Cathy和我们正在紧张确认时间中。&lt;/p&gt;
+&lt;p&gt;社会工作者&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;段语婷&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个社工&lt;/p&gt;
+&lt;p&gt;课程板块Part2&lt;/p&gt;
+&lt;p&gt;成都市利川社会工作服务中心项目主管\中级社工师.&lt;/p&gt;
+&lt;p&gt;社会工作本科，5年社工实务经验，先后在厦门、成都等地负责过数十个社工项目，服务人群涵盖儿童、老年人、精神障碍者等。&lt;/p&gt;
+&lt;p&gt;在精神健康社区康复领域主要通过“参与式影像视角下的精神健康社会工作”的服务方式，服务各类精神康复者，透过参与式影像发声的技术，鼓励精神康复者主动参与及表达，提升精神康复者重归生活的自信心，支持康复者获得成功的人际经验，并透过影像发声、自我代言的方式，解决精神康复者自我发声难问题，促进社会公众对精神康复者形成更加客观的认识，减轻精神康复者的社会污名化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Part3说话有人在听&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**行动主体：**擅长特定媒介的专业人员&lt;/p&gt;
+&lt;p&gt;**分享主题：**如何用特定媒介做好公益传播？如何让特定媒介兼顾精神健康议题特殊性的同时也能够发挥最大化作用？如何让一个公益属性的项目具有美感和艺术性？&lt;/p&gt;
+&lt;p&gt;**涉及案例：**播客、杂志、小册子、自媒体……&lt;/p&gt;
+&lt;p&gt;**特邀嘉宾：**性与性别研究博士/泛性别平台“BIE别的女孩”前主编Alexwood、设计师张之弦&lt;/p&gt;
+&lt;p&gt;性与性别学者&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alexwood&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个播客&lt;/p&gt;
+&lt;p&gt;课程板块Part3&lt;/p&gt;
+&lt;p&gt;在播客主播之外，Alexwood还有着多重身份：心理学硕士、性与性别研究博士、泛性别平台“BIE别的女孩”前主编，目前在云南探索新的生活方式。&lt;/p&gt;
+&lt;p&gt;尽管Alex很少可刻意强调她的专业背景，但我们总能从她的实践当中看到审慎的态度和细腻的关怀。她在戒毒所做过三年心理咨询师，也获得过心理学硕士学位和性别研究的博士学位，后来跳出象牙塔，在国内做大众传播。Alex 的播客从性别出发，但并不囿于狭义上的性别话题，而是用性别的视角看待社会的方方面面。&lt;/p&gt;
+&lt;p&gt;她的播客也不时谈及亲密关系、心理咨询体验等话题。其中与精神健康关系最紧密可能是她与公益大爆炸和喜公益合作任性公益系列播客，其中第二期聚焦了精神健康，刺鸟也参与了当时的采访。可以说，这是刺鸟参与过最带劲的一次采访。在本次课程里，Alex也会着重和大家分享相关经验。&lt;/p&gt;
+&lt;p&gt;设计师&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;之弦&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个设计&lt;/p&gt;
+&lt;p&gt;课程板块Part3&lt;/p&gt;
+&lt;p&gt;00年生，来自广州。发表作品时笔名 cec。&lt;/p&gt;
+&lt;p&gt;毕业于同济大学环境设计，目前在瑞士巴塞尔学习实验艺术。&lt;/p&gt;
+&lt;p&gt;希望把艺术创作和策展作为以后的职业方向。&lt;/p&gt;
+&lt;p&gt;参展经历&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2021-2023Flyway飞路中英精神健康艺术展（参与策划）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2021-2022上海市精神卫生中心600号画廊（参与策划）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2022女性心理肖像公益创作展——“鸢尾花无罪”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2022“+ME”NFT艺术展广州站&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2022上海世界设计之都大会&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;推荐读物：《艺术与恐惧》［美］大卫•贝尔斯（David Bayles） / ［美］ 特德•奥兰德（Ted Orland）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Part4平视&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**行动主体：**公益组织/平台方 &lt;/p&gt;
+&lt;p&gt;**分享主题：**如何做好支持性平台？如何动员和协调资源？如何跟亲历者艺术家做好沟通协调工作？如何在浪漫化和污名化的社会氛围中打破偏见拓宽大众对于精神健康的想象？&lt;/p&gt;
+&lt;p&gt;**涉及案例：**艺术节、画廊、展览、投稿专栏……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特邀嘉宾&lt;/strong&gt;：刺鸟栖息地负责人小卡、600号画廊发起人陈医生、双相躁郁世界主创Emile&lt;/p&gt;
+&lt;p&gt;刺鸟栖息地负责人&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;小卡&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个公益组织平台&lt;/p&gt;
+&lt;p&gt;课程板块Part4&lt;/p&gt;
+&lt;p&gt;刺鸟栖息地负责人&lt;/p&gt;
+&lt;p&gt;社工专业督导&lt;/p&gt;
+&lt;p&gt;南京大学社工本硕&lt;/p&gt;
+&lt;p&gt;连续7年策划精神健康艺术节展&lt;/p&gt;
+&lt;p&gt;600号画廊长期合作方&lt;/p&gt;
+&lt;p&gt;曾获精神健康创新传播奖&lt;/p&gt;
+&lt;p&gt;使用展览、应用戏剧、影像等多种媒介参与精神健康事业&lt;/p&gt;
+&lt;p&gt;600号画廊发起人&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;陈智民&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个600号画廊&lt;/p&gt;
+&lt;p&gt;课程板块Part4&lt;/p&gt;
+&lt;p&gt;陈智民，上海市精神卫生中心主治医师，中级心理治疗师，上海交通大学医学在读博士。&lt;/p&gt;
+&lt;p&gt;研究方向为病迹学/精神病理传记学。硕士和博士课题均研究历史上患有精神障碍的文艺名人，对其进行精神病理分析，研究其精神障碍与其文学创作的互相作用关系。并涉猎精神病学与人文社会学科的交叉领域如精神病学电影研究、精神障碍者绘画研究和相关思想史议题。&lt;/p&gt;
+&lt;p&gt;参与创办和运营“600号画廊”。发表中文核心和英文SCI论文数篇，在研局级课题“艺术创造力与精神障碍关系的质性研究”。&lt;/p&gt;
+&lt;p&gt;欢迎关注陈智民医生个人豆瓣：「精总陈智民」，获取更多文章视频。&lt;/p&gt;
+&lt;p&gt;双相躁郁世界主创&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;李施瑾/Emile&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;做个公益组织平台&lt;/p&gt;
+&lt;p&gt;课程板块Part4&lt;/p&gt;
+&lt;p&gt;公众号「双相躁郁世界」主创&lt;/p&gt;
+&lt;p&gt;纪录片《过山车玩家》联合制片人&lt;/p&gt;
+&lt;p&gt;本科毕业于华南理工大学&lt;/p&gt;
+&lt;p&gt;数学系划水运动员，做过医学编辑和漫画编辑，理想状态是纪录片游民。恰饭中，爱发疯&lt;/p&gt;
+&lt;p&gt;课前推荐阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《你仍然相信「每个人都有得选」吗？| 内部访谈》（公众号：双相躁郁世界）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&amp;amp;mid=2247504160&amp;amp;idx=1&amp;amp;sn=1c851fa6e04324def66219763b1d95d9&amp;amp;scene=21#wechat_redirect&#34;&gt;https://mp.weixin.qq.com/s/ecHu-sSbvNmeGIHBoYaODw&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《什么是当事者研究？- 当事者研究的理念和构成》（公众号：文明及其不满）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzkwMzQzODI2Ng==&amp;amp;mid=2247483712&amp;amp;idx=1&amp;amp;sn=9e99e832ea2ba2f7dbeb1082db5788b4&amp;amp;scene=21#wechat_redirect&#34;&gt;https://mp.weixin.qq.com/s/EnPV4_zql9BQBMD5vw6IlA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《成为志愿者之后，我才敢转发朋友圈》（公众号：双相躁郁世界）：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&amp;amp;mid=2247504117&amp;amp;idx=1&amp;amp;sn=de1e7a2145f5d2b48de59b16825b13d4&amp;amp;scene=21#wechat_redirect&#34;&gt;https://mp.weixin.qq.com/s/MPOEEPVGU8Ii5F0IrJvzOg&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;书影推荐：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《不畏风雨》：［日］宫泽贤治 文/［日］山村浩儿 图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《蓝色小药丸》：［瑞士］弗雷德里克·佩特斯&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《自杀作为中国问题》：［中］吴飞&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《纪录片叙事者的主体性研究》：［中］邓秀军&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纪录片《所有的美丽与血泪》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纪录片《双相青春（Boy Interrupted）》&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实际分享的模块顺序会以嘉宾实际时间为准。课程会确保每月的分享都能以多元视角呈现。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报名方式&lt;/strong&gt;  &lt;strong&gt;课程须知 .&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;量力而行&lt;/p&gt;
+&lt;p&gt;899元&lt;/p&gt;
+&lt;p&gt;14次 28课时&lt;/p&gt;
+&lt;p&gt;每周三 晚上8:00-10:00&lt;/p&gt;
+&lt;p&gt;国庆假期后启动&lt;/p&gt;
+&lt;p&gt;腾讯会议&lt;/p&gt;
+&lt;p&gt;*遇到嘉宾有特殊情况，会调整时间，会提前通知大家。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;扫码填写信息，打不开可以多刷新几下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;交费报名成功后，会出现小助手二维码和一个带有数字的随机码，此时记得截图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;添加小助手微信，发送带有随机码的截图视为验票成功&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小助手邀请你入微信群&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把昵称改为和报名表单一致的名称&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;等待课程通知&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10.1-10.3报名系统维护，无法登陆，届时您可以晚些报名，或者联络客服号寻求帮助&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;为了能方便更多年轻学生和从业者报名，定价不高，平均一小时三十二块钱。全程直播，可直接互动，嘉宾众多，内容架构也是第一次推出。但也因此，为了平衡成本，需要更多的人报名才能启动，人数太少的话会直接取消。&lt;/p&gt;
+&lt;p&gt;项目结束前都可报名，结束后半年都可以看回放，但是为了确保学习效果，不建议太晚加入。如果人数超过运营上限，也会提前截止。&lt;/p&gt;
+&lt;p&gt;如果你在经济方面有困难，非常不建议省吃俭用委屈自己来参加这个活动，务必量入为出，我们过去和未来大量的公开内容和资源都是你自发学习的入口。&lt;/p&gt;
+&lt;p&gt;【微信群】每次活动前会发布资料，大家自行了解相关案例。日常发言需遵守群规，触发群规会踢出群或开启禁言模式。课程结束后，群聊会解散。如果不希望加微信群也是ok的，小助手会群发课程资料，不耽误大家上课。&lt;/p&gt;
+&lt;p&gt;【直播】主讲人和嘉宾结合真实案例和一手经验进行主题分享及对话，参与者展开讨论，自由问答。课后可查看回放。&lt;/p&gt;
+&lt;p&gt;有其他问题，请咨询小助手，小助手工作繁忙，仅回答课程相关讯息，不回答其他项目和活动信息，请主动说明来意哦。如果没有及时回复，也请耐心等待，文明礼貌沟通哦！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活动须知，务必看完&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是一个以&lt;strong&gt;公共教育&lt;/strong&gt;为主要目的的课程，旨在通过多个视角和创意的方式探索心灵与艺术的交汇点，本课程&lt;strong&gt;并非&lt;/strong&gt;艺术治疗师或疗愈师的职业资格培训。我们将探讨如何运用艺术来支持心理健康、表达情感、以及促进社会融入等主题。这个课程并&lt;strong&gt;不是&lt;/strong&gt;心理咨询、线上支持团体、或精神障碍的诊断和治疗服务。我们将尊重每位参与者的独特体验，鼓励自由表达和创意探索。但请注意，课程中的表达&lt;strong&gt;并不能&lt;/strong&gt;代替专业心理治疗。尽管我们的课程关注心理健康，但它&lt;strong&gt;不会涉及&lt;/strong&gt;参与者个人心理问题的处理，也&lt;strong&gt;无法提供&lt;/strong&gt;心理疏导。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;准时参与，遵守课堂和群聊规则&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;群内不刷屏、不灌水、不发广告、不发关于病情的求助（有特殊需求需联系管理员后由管理员发布）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;群内不讨论用药，不指导他人病情，在非艺术案例分享的松散闲聊语境里面，不分享自身自伤和自杀经验&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;报名成功后非不可抗力费用不退&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;参与名额可以转让，但受限于人力成本，仅可转让1次&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;保持开放/倾听/投入，尊重他人隐私&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;活动会录屏截屏和记录，涉及隐私的会协商处理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;避免对他人的经历下结论或者说教&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们无法对嘉宾在本课程之外的个人行为负责或背书&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们不对学员课后的自发互动负责，交友请谨慎&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尊重主办方的劳动和付出，遵守秩序&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尊重原创，不得私下传播相关课件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们欢迎一起撒野的伙伴，不欢迎高高在上的消费者&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;希望彼此理解，平等沟通&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主办方 刺鸟栖息地&lt;/p&gt;
+&lt;p&gt;排版 小 i&lt;/p&gt;
+&lt;p&gt;• END •&lt;/p&gt;
+&lt;p&gt;精神健康艺术团体。以超越学科的视角看待精神健康议题，身体力行促进知识和经验的生产， 秉持社会正义的理念， 探索多元介入的可能。开展同伴教育、 互助团体、 讲座沙龙等经典项目， 也通过影像研习、 影像制作、 戏剧演出、艺术展览等各种艺术创新方式进行精神健康大众传播。连续七年举办精神健康艺术展览。与多所高校合作， 组织教学和培训。曾获联合国教科文组织、British Council、北京尚善公益基金会、 706空间青年基金、 银杏基金会、 爱德基金会支持。&lt;/p&gt;
+&lt;p&gt;微信 perchthornbird&lt;/p&gt;
+&lt;p&gt;邮箱 &lt;a href=&#34;mailto:thornbird123@foxmail.com&#34;&gt;thornbird123@foxmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>任何障碍都不是开脱责任的理由</title>
+		<link>http://localhost:1313/test/</link>
+		<pubDate>Mon, 11 Jul 2022 18:10:07 -0400</pubDate>
+		
+		<guid>http://localhost:1313/test/</guid>
+		<description>&lt;p&gt;“在杂音系列专栏里，我们收集各种各样有关精神健康议题的声音。尽量去呈现更多的观点，打造一个多元化声音的集散地。”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;杂音系列&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第73篇&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键词：疫情 心理健康&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近几年，精神心理话语越来越频繁地出现在我们的生活当中。它们当中，有些扮演了促进人和人之间沟通理解的良性功能，有些帮助我们更好地探索自我，还有一些，则成为了权力的帮凶。实际上，精神病学在历史上一度被诟病，就在于它曾经有意无意地扮演了社会控制的角色：将人群当中的一部分标记为不正常从而进行区分，继而以“为你好”之名进行矫正和管理。&lt;/p&gt;
+&lt;p&gt;有通报说一位在疫情当中跳楼自杀的女子有焦虑障碍，后来又有一篇评论，说“任何磨难都不是放弃生命的理由”。很多网友感到愤怒。网络消息显示，这位女子的家中曾经暴力消杀。死后，其女儿因为被锁上的铁门，无法赶到妈妈身边，最终在邻居帮助下才得以出去。这样的通报我们不是第一次看到，比如一个常年遭受家暴的女子因为不具备良好的表达能力被认为是胡言乱语的疯人，比如某些高校里面学生自杀以后学校表示此人生前有抑郁症。这些通报之所以让人生气，是因为它们仿佛在暗示：&lt;strong&gt;此事与我无关，是这个人自己有病。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这些带有诊断色彩的词语，说实话，说了跟没说一样。一个人在什么样的状态下选择结束生命，不是多么难以想象的事情，也不需要一个看似科学实则冷酷的诊断画蛇添足。&lt;/p&gt;
+&lt;p&gt;精神障碍，**不是原因，是结果。**尽管生物科学一再强调精神障碍有其生化背景，但我们也不可能去忽略最基本的常识，那就是作为社会动物的人类，其个性养成、情绪变化、行为方式都和其所处的环境有着紧密的联系。相当一部分群体的精神障碍，是在痛苦当中挣扎的结果，是受到不公平待遇后留下的痕迹。&lt;strong&gt;精神障碍，是其受苦的证据，而非活该如此的理由。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;精神障碍的分类和诊断，理应是为了创造更包容的社会，为了方便助人者去识别和分析不同种类的困境，为了自身更细致地自我探索而存在的。而不是成为&lt;strong&gt;将个体普遍的痛苦特殊化的利器&lt;/strong&gt;，用来苛求和责难苦苦维持生活的老百姓。&lt;/p&gt;
+&lt;p&gt;精神上无法调节情绪所产生的情绪障碍，和小区被上锁的铁门导致的生活障碍，哪个障碍显得更刺眼？&lt;/p&gt;
+&lt;p&gt;有没有这样一份通报，敢于在xx障碍之后加上更多的解释？比如，xx，女，xx岁，重度抑郁，失业一年，独自育儿，尚有xx房贷未还。是的，我们明白一个人有xx障碍，但xx障碍的背后是什么，是可以言说的吗？我们不仅仅有精神障碍，还有表达障碍，出行障碍，生计障碍……这些障碍，怎么就都被藏在精神障碍后面了呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;精神障碍好像成为了收编一切苦难的容器，成为了掩盖不公不义的华丽罩袍，成为了自我欺骗的麻醉剂。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这也让从业者很难做事。试想，如果一个障碍的诊断，就抹杀了一切生存的痛苦、淡化了痛苦的来源，那一定有人是不愿意被划归在这样的障碍之下的。需要帮助的人因为恐惧和不信任抗拒求助。比起在情绪当中煎熬的痛苦，人们更害怕被标记、害怕让渡对于自己生命的解释权。&lt;/p&gt;
+&lt;p&gt;就像自杀这件事情，有人用自杀逃避麻烦，有人用自杀表达哲学态度，有人用自杀抗议不公。一个行为的背后，有着太多复杂的因素，绝非简简单单一句“有病”可以概括。自杀不是一个寻常事情，**这样的不寻常，原本是在警示我们，看一看到底哪里出了问题。**如果我们习惯简单地停留在一个浅显的因果关系上，我们就有可能对此类事情变得麻木。一个活生生的人，选择结束了生命。但我们却因为手持着几个诊断，就自以为参透了生命，自以为这些事情与我们无关。&lt;/p&gt;
+&lt;p&gt;假设，一个抑郁症女人和她不怀好心的丈夫旅游，在无人的情况下被丈夫推下山崖摔死，事后调查结果用“生前重度抑郁，曾有自杀倾向”来合理化这样的死亡，会不会太过恐怖了。可能说得有点严重了，但在今天精神心理话语泛滥的情况下，保持警惕恐怕是有必要的。如果这些年的知识普及没有让社会变得更包容，没有让人们对于和自己不一样的人变得更温柔，反而创造了一堆唬人的新词来让该负起责任的相关方脱责，那这样的科普不如不做。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;社会发生了一连串前所未见的事情……“坏事会继续发生”成为不断实现的可怕预期，也为精神医学与社福机构带来挑战。社会立场分化，对机构和他人渐渐变得不信任。求助者因私隐关注却步，传统系统无法好好发挥。更甚者，在关注大局的气氛下，大家彷佛没有空间、或觉得“不应该”关顾自己⋯⋯要准确理解这个社会状态，需要更深入的审视……——Dr Chen Yu Hai&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;过往我们定义疾病，会强调某种症状持续过久影响到正常生活，“想象一条橡筋圈，被拉会变形，放松便弹回，这是正常调节。但是倘若橡筋被拉得太久，加上橡胶本身产生变化，最后即使放松了，也无法回复原状。于是我们说，这人可能已经进入疾病状态，是个人风险因素跟环境互动的结果”。**但如果我们的“正常”就是日复一日的应激呢？**如果橡皮筋可能一直无法得到“放松”呢？对此，即便是作为精神科系主任的Dr Chen也承认，“那是太平盛世的诊断假设。但是在动荡的大时代中，是病不是病，回答不易。”&lt;/p&gt;
+&lt;p&gt;我们的确面临着更大的精神健康危机，但用“精神疾病”的形容不仅容易模糊重点，也可能会导致越来越多的人畏惧求助。上面引用的这位医生，提出了“精神损伤“的说法，意思是我们的心理也会像身体一样，遭到外部压力后就会损害。这里的外部压力是源源不断，并且很大可能性是不可抗的。如果说过去是我们每个人都罹患精神疾病的风险，那么今天可能人人都有或轻或重的精神损伤。如果这种精神损伤已经蔓延到每个人身上，那再去强调那些苍白的诊断，是否是在倒果为因？&lt;/p&gt;
+&lt;p&gt;“任何磨难”里面包括可以避免的人祸吗？“放弃生命”的当事人有的选吗？坚强的上限在在哪里？忍到什么时候再去自杀才不显得懦弱？熬过了这段时间的人，身心就都健康？&lt;/p&gt;
+&lt;p&gt;很遗憾看到精神健康议题以这样的方式被提起。我们平时做精神健康工作，其实经常强调个人要承担自己的生命责任，改变的第一责任人在自己。我们也会担心人们安心于标签之下，远离真实生活。但如果一个人足够努力活下去了，社会却无法为她提供安身的位置，那这个人可能会感到加倍的绝望。&lt;/p&gt;
+&lt;p&gt;那种对于放弃生命的说教之所以让人感到厌恶，是因为这些人似乎没有心一般无法体会普通人光是活着就感到筋疲力尽的无奈。大家都是人，不需要谁来教谁怎么做人。&lt;/p&gt;
+&lt;p&gt;正常人不是从来不生病的人，也不是一直能保持理性并对生活充满积极热情的人。所谓正常人，不过就是在“活着没意思”和“不想就这样死去”之间来回挣扎的脆弱又坚韧的血肉之躯罢了。&lt;/p&gt;
+&lt;p&gt;那些在挣扎和拉扯当中幸存的人，会记录历史。&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title> 资源汇总 | 媒体如何更好地报道精神健康议题？</title>
-		<link>https://www.thornbirds.org/media_report_political_summery/</link>
+		<link>http://localhost:1313/media_report_political_summery/</link>
 		<pubDate>Tue, 22 Mar 2022 00:48:43 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/media_report_political_summery/</guid>
+		<guid>http://localhost:1313/media_report_political_summery/</guid>
 		<description>&lt;p&gt;&lt;strong&gt;杂音系列&lt;/strong&gt; &lt;code&gt;第59篇&lt;/code&gt; &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在&lt;strong&gt;杂音&lt;/strong&gt;系列专栏里，我们收集各种各样有关精神健康议题的声音。尽量去呈现更多的观点，打造一个多元化声音的集散地。&lt;/p&gt;
@@ -292,7 +616,7 @@
 &lt;p&gt;最后，附上由刺鸟伙伴协同整理完成的英文世界当中的精神健康媒体报道规范，可能是目前最全的相关资源整理，具体使用需结合本土实际情况，仅供参考。&lt;/p&gt;
 
  
-    &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2022/media_report/media_report_summery.webp&#34;
+    &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2022/media_report/media_report_summery.webp&#34;
              style=&#34; &#34;&gt;&lt;/figure&gt;
  
 
@@ -306,7 +630,7 @@
 &lt;/blockquote&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/basic/thornbird_logo.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/basic/thornbird_logo.jpg&#34;
             style=&#34;display: block; margin: auto; width:225px;&#34;&gt;&lt;figcaption&gt;精神健康公共艺术团体。以超越学科的视角看待精神健康议题，身体力行促进知识和经验的生产， 秉持社会正义的理念， 探索多元介入的可能。开展同伴教育、 互助团体、 讲座沙龙等经典项目， 也通过影像研习、 影像制作、 戏剧演出、艺术展览等各种艺术创新方式进行精神健康大众传播。连续五年举办精神健康艺术展览。与多所高校合作， 组织教学和培训。曾获北京尚善公益基金会、 706空间青年基金、 银杏基金会、 爱德基金会支持。&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -320,10 +644,10 @@
 	
 	<item>
 		<title>在这里，谈论有关精神健康的一切｜FLYWAY飞路中英精神健康艺术展</title>
-		<link>https://www.thornbirds.org/ciniao_exhibitions_flyway_1/</link>
+		<link>http://localhost:1313/ciniao_exhibitions_flyway_1/</link>
 		<pubDate>Thu, 22 Jul 2021 00:04:33 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/ciniao_exhibitions_flyway_1/</guid>
+		<guid>http://localhost:1313/ciniao_exhibitions_flyway_1/</guid>
 		<description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;展览时间&lt;/strong&gt;: 2021年8月1日-31日  10:30 - 18:00&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;展览地点&lt;/strong&gt;: 上海市宝山区蕰川路6号 智慧湾科创园C区箱空间201-209&lt;/li&gt;
@@ -332,14 +656,14 @@
 &lt;/ul&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/Flyway14.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/Flyway14.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 &lt;p&gt;在世界各地，都有为精神健康而努力的人。然而，当我们谈论健康的时候，或许也暗含了对不健康的敌意。当越来越多的现象被冠以“XX症”之名，当疾病诊断成为文化习语，在精神健康与不健康的界定里，在不同学科视角的博弈和张力中，在亲历者的不断探索和体验中，人们重塑精神疾病的内涵和外延。&lt;/p&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/Flyway6.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/Flyway6.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -347,7 +671,7 @@
 &lt;p&gt;抑郁是否可以共情，悲伤是否仍具意义？如何界定正常与不正常？我们有可能达成对话吗？我们对精神健康的理解还有进步空间吗？带着这些思考，来自中国的公共艺术团体刺鸟栖息地和英国苏格兰的社会企业ArtlinkCentral选择了艺术，期待借由这一跨越国界、胜过语言的通用媒介来填平沟壑、弥补空白。&lt;/p&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/Flyway1.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/Flyway1.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -356,26 +680,26 @@
 &lt;p&gt;FLYWAY飞路中英精神健康艺术展，在这里，你可以谈论关于精神健康的一切 。&lt;/p&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/Flyway7.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/Flyway7.jpg&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
 &lt;p&gt;参展中国区作者71位和英国区作者18位。作品类型涵盖绘画、摄影、声音、影像、装置、行为、剧场、文学……展品涉及的形式和内容十分丰富，从症状描述到哲学思辨，从亲历者发声到医患共同创作，从个体生命经验到公益组织的民间实践，我们非常幸运能够见证如此丰盛的表达。&lt;/p&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/media.greatfire.gif&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/media.greatfire.gif&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;figcaption&gt;展览涵盖了各种艺术形式 ©李心沫，Joke镭，金荪汶，Raet，ShuangshuangHao，cec，Yu&lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/artcp.jpg&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/artcp.jpg&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;艺术，是记录，是陪伴，是自我治疗 ©CandleX &amp;amp; Pere Ibanez&lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/imfine.jpg&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/imfine.jpg&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;来自英国的作品让我们感受到人所共有的喜怒哀乐 ©Holly Macdonald&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -475,7 +799,7 @@
 
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/Flyway/artlinklogo.jpg&#34; alt=&#34;Artlink_logo_STANDARD(red).jpeg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/Flyway/artlinklogo.jpg&#34; alt=&#34;Artlink_logo_STANDARD(red).jpeg&#34;
             style=&#34;display: block; margin: auto; width:225px;&#34;&gt;&lt;figcaption&gt;Artlink Central 是一个成熟的小型慈善与社会企业， 旨在组织开展各种形式的活动，让致力于包容性创意实践的专业艺术家广泛参与进来，将系统性障碍进行正面转化， 以推动我们所关注的群体积极参与艺术和公民生活。我们重点关注心理健康与障碍问题， 同时也越来越重视如何让我们的工作和理念变得更具包容性和交叉性。&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -490,10 +814,10 @@
 	
 	<item>
 		<title>身心困扰不要慌, 来一剂社会的处方</title>
-		<link>https://www.thornbirds.org/social_prescription/</link>
+		<link>http://localhost:1313/social_prescription/</link>
 		<pubDate>Sun, 14 Mar 2021 04:45:05 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/social_prescription/</guid>
+		<guid>http://localhost:1313/social_prescription/</guid>
 		<description>&lt;p&gt;&lt;em&gt;Author: 团子&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;之前两期社工文库，我们聊到了新的医学模式，介绍了医务社工和健康照护工作者进行心理社会“诊断”的模式和工具(4Rs)。如果继续借用医学的隐喻，下一步就是干预或社会处方了。对此，刺鸟栖息地的伙伴们已在社会处方公共写作计划中有了很好的梳理和探索。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;药丸系列&lt;/strong&gt;	&lt;code&gt;第17粒药丸: 社会处方&lt;/code&gt;&lt;/p&gt;
@@ -502,7 +826,7 @@
 &lt;/blockquote&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/prescription.webp&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/prescription.webp&#34;
             style=&#34;display: block; margin: auto; &#34;&gt;&lt;/figure&gt;
 
 
@@ -516,7 +840,7 @@
 &lt;p&gt;我们很容易忘记一个事实，那就是人们的身心健康除了跟医疗护理有关，也在很大程度上受到经济文化等社会决定因素（social determinants of health）的影响。一个人的收入、教育、住房、成长工作生活环境等社会因素会极大地影响ta的健康行为，也是决定ta能够获取医疗资源和健康结果的核心因素之一（Magnan, 2017; WHO, 2008）；有社会支持和资源的人通常会更健康，收入越低、工作职位越低的人更容易有健康风险（Alliance for Healthier Communities, 2019; Braveman &amp;amp; Gottlieb, 2014; Marmot &amp;amp; Wilkinson, Eds, 2005）。&lt;/p&gt;
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/healthornot.webp&#34; alt=&#34;你的身心健康吗？© Pexels&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/healthornot.webp&#34; alt=&#34;你的身心健康吗？© Pexels&#34;
             style=&#34; width:auto;&#34;&gt;&lt;figcaption&gt;你的身心健康吗？© Pexels&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -532,14 +856,14 @@
 &lt;/ul&gt;
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/france.webp&#34; alt=&#34;蒙特利尔&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/france.webp&#34; alt=&#34;蒙特利尔&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;法语医学学会-蒙特利尔美术馆博物馆处方丨©蒙特利尔美术馆，Jean-François Brière&lt;/figcaption&gt;&lt;/figure&gt;
 
 
 &lt;p&gt;多数社会处方计划致力于提高人们的社会心理健康和身体健康（psychosocial and physical wellbeing），它可缓解人们的焦虑，抑郁体验及孤独感，提高对生活的满足度及整体生命质量（Bhatti et al., 2021; Dowden, 2019; Drinkwater, Wildman &amp;amp; Moffatt, 2019; Kimberlee, 2015）。通常对初级医疗护理有需求的人——往往是轻症的全科护理而非重疾的专科/急诊/手术护理——会得益于社会处方，&lt;strong&gt;比如有轻度或长期精神困扰、有复杂需求的、被社会隔离的人，尤其是有多种慢性疾病又缺乏社会陪伴的老年人群体&lt;/strong&gt;（Brandling &amp;amp; House, 2009; The King&amp;rsquo;s Fund, 2019）。&lt;/p&gt;
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/chessalone.png&#34; alt=&#34;蒙特利尔&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/chessalone.png&#34; alt=&#34;蒙特利尔&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;一个人下棋©团子&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -568,7 +892,7 @@
 &lt;p&gt;一位熟知社会处方笺的医生除了进行「医疗诊断」也会给小林进行「社会诊断」，然后根据她的生理和社会情感症状开具相应的处方。社会处方则是将她转介给&lt;strong&gt;社区协调员（link worker）&lt;/strong&gt;——一种专门从事联结医疗和社会福利系统的中介职业（其他英语称呼有system navigator/community connector/health adviser等等）（Drinkwater, Wildman &amp;amp; Moffatt, 2019; Islam, 2020）。在对小林的需求、能力和所在社区资源有一定了解和评估后，协调员会邀请她一同设计适合她的社会处方并鼓励她坚持使用类似的服务。&lt;/p&gt;
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/ontario.png&#34; alt=&#34;安大略社会处方&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/ontario.png&#34; alt=&#34;安大略社会处方&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;社会处方操作流程图©安大略省社会处方计划「Rx: Community - Social Prescribing in Ontario」&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -594,7 +918,7 @@
 &lt;p&gt;其意义就在于它是一个&lt;strong&gt;正式&lt;/strong&gt;的转介机制，由医务人员的亲自介绍/推荐为基础，让社会处方里的服务得到重视从而提升公众的健康及疾病预防的意识 (Brandling &amp;amp; House, 2007)。如果不是医务人员的引荐的话，患者很可能想不到也不会使用这些社会资源（Islam, 2020; Popay et al., 2007）。对患者来说，别人说了可能没用，但医生在健康方面的话语权能让社会处方的概念更容易被接受，从而促进主动向社会系统求助。同时，患者可能会关心自己的躯体症状而忽略问题背后的社会成因，而医生可以及时提醒他们更全面地了解自己的情况而不仅仅是在医疗系统寻求单一支持。也就是说，通过医疗和社会服务系统的正式联结将会体现出基于社区的社会服务之重要性、扩大公众的信息源——为自己的健康做更充分的准备和明智的选择、提高大家对非医疗服务资源的认可及重视。&lt;/p&gt;
 
 
-   &lt;figure &gt;&lt;img src=&#34;https://www.thornbirds.org/images/2021/social_prescription/uksummer.png&#34; alt=&#34;夏天英国&#34;
+   &lt;figure &gt;&lt;img src=&#34;http://localhost:1313/images/2021/social_prescription/uksummer.png&#34; alt=&#34;夏天英国&#34;
             style=&#34; &#34;&gt;&lt;figcaption&gt;去年夏天英国环境、食品和乡村事务部宣布拿出4百万英镑来建设绿色活动处方，旨在预防和改善大众的精神疾病困扰©团子&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -639,7 +963,7 @@
 &lt;p&gt;&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzU1Nzg1NjU4MQ==&amp;amp;mid=2247484363&amp;amp;idx=1&amp;amp;sn=cc504e02be5062e7bd6e4d9739efb2d3&amp;amp;chksm=fc2e21e1cb59a8f7049844d32669b85f1805024b12557d5be1818bd30c154db9a6a4f940f77f&amp;amp;scene=21#wechat_redirect&#34;&gt;艺术：作为社会行动的纪录片&lt;/a&gt;&lt;/p&gt;
 
 
-   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://www.thornbirds.org/images/basic/thornbird_logo.jpg&#34;
+   &lt;figure  style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/basic/thornbird_logo.jpg&#34;
             style=&#34;display: block; margin: auto; width:220px;&#34;&gt;&lt;figcaption&gt;精神健康公共艺术团体。以超越学科的视角看待精神健康议题，身体力行促进知识和经验的生产， 秉持社会正义的理念， 探索多元介入的可能。开展同伴教育、 互助团体、 讲座沙龙等经典项目， 也通过影像研习、 影像制作、 戏剧演出、艺术展览等各种艺术创新方式进行精神健康大众传播。连续五年举办精神健康艺术展览。与多所高校合作， 组织教学和培训。曾获北京尚善公益基金会、 706空间青年基金、 银杏基金会、 爱德基金会支持。&lt;/figcaption&gt;&lt;/figure&gt;
 
 
@@ -660,13 +984,13 @@
 	
 	<item>
 		<title>面对不公不义, 如何在深渊中存活</title>
-		<link>https://www.thornbirds.org/how_to_survive_in_the_abyss_when_faced_with_injustice_and_wrongdoing-dissent/</link>
+		<link>http://localhost:1313/how_to_survive_in_the_abyss_when_faced_with_injustice_and_wrongdoing-dissent/</link>
 		<pubDate>Wed, 08 Jul 2020 15:54:44 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/how_to_survive_in_the_abyss_when_faced_with_injustice_and_wrongdoing-dissent/</guid>
+		<guid>http://localhost:1313/how_to_survive_in_the_abyss_when_faced_with_injustice_and_wrongdoing-dissent/</guid>
 		<description>&lt;p&gt;Original ka233 刺鸟栖息地&lt;/p&gt;
 &lt;p&gt; &lt;em&gt;2020年07月08日 18:29&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.thornbirds.org/images/basic/thornbird_flag.webp&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/basic/thornbird_flag.webp&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;“在&lt;strong&gt;杂音&lt;/strong&gt;系列专栏里，我们收集各种各样有关精神疾病的声音。尽量去呈现更多的观点，打造一个多元化声音的集散地。本期带来的，是对政治抑郁话题的进一步讨论，在这里您能看到更具体的分析和可以实践的行动。”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;杂音系列&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第19篇&lt;/strong&gt;&lt;/p&gt;
@@ -774,10 +1098,10 @@
 	
 	<item>
 		<title>作为社会文化现象的抑郁症｜药玩Pity Party</title>
-		<link>https://www.thornbirds.org/ciniao_exhibitions_yaowan_1_0522/</link>
+		<link>http://localhost:1313/ciniao_exhibitions_yaowan_1_0522/</link>
 		<pubDate>Wed, 01 May 2019 00:04:33 +0800</pubDate>
 		
-		<guid>https://www.thornbirds.org/ciniao_exhibitions_yaowan_1_0522/</guid>
+		<guid>http://localhost:1313/ciniao_exhibitions_yaowan_1_0522/</guid>
 		<description>&lt;p&gt;当“正能量“和“丧”齐头并进，当人们越来越少地使用“忧愁”、“悲伤”、“痛苦”、“虚无”这些词汇描述自己，当把越来越多的人和现象被冠以“抑郁症〞的标签，你会发现 ，抑郁症同时作为疾病分类标签和文化习语影响着我们，我们也在重塑抑郁症的内涵和外延。&lt;/p&gt;
 &lt;p&gt;抑郁症是什么？什么算是抑郁症？
 治疗抑郁症，谁说了算？ 我们对待抑郁症的方式正在发生怎样的变化？ 当每个人都按照自己认为对的方式去使用这个概念时，社会张力随之产生。&lt;/p&gt;
